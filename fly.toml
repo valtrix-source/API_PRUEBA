@@ -1,8 +1,0 @@
-# Reemplaza "api-prueba" por el nombre de tu aplicación en Fly.io
-app = "api-prueba"
-
-[http_service]
-  internal_port = 3000
-  force_https = true
-  auto_start_machines = true
-  auto_stop_machines = true
