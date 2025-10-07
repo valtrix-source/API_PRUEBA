@@ -1,0 +1,17 @@
+{
+  "name": "api_prueba",
+  "version": "1.0.0",
+  "description": "API de prueba que responde Hola Mundo.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "hola",
+    "mundo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
